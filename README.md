@@ -1,6 +1,9 @@
-# IPL First Innings Score Prediction - Deployment
+# Building & Deployment Of IPL First Innings Score Prediction 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
+![flask](https://img.shields.io/badge/Library-flask-blue.svg)
+![Numpy](https://img.shields.io/badge/Library-numpy-red.svg)
+![Pandas](https://img.shields.io/badge/Library-pandas-white.svg)
 
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
