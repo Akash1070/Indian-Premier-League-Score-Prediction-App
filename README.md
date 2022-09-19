@@ -5,7 +5,7 @@
 ![Numpy](https://img.shields.io/badge/Library-numpy-red.svg)
 ![Pandas](https://img.shields.io/badge/Library-pandas-white.svg)
 
-• This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
+• Deploying a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
 • If you want to view the deployed model, click on the following link:
 https://ipl-score-prediction-app458.herokuapp.com/
